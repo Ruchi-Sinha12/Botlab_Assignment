@@ -253,13 +253,3 @@ tests/
 ```
 
 ---
-
-## 📌 Submission Notes
-
-* Code is ready to be hosted on a public GitHub repository
-* README clearly documents architecture and design patterns
-* Meets all assignment requirements for simulation, patterns, and testing
-
----
-
-✅ **Assignment Complete – Single Drone Telemetry Simulator**
